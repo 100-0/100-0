@@ -1,5 +1,5 @@
-![header](https://capsule-render.vercel.app/api?type=cylinder&color=auto&height=160&section=header&text=capsule%20render&fontSize=50)
-![header](https://capsule-render.vercel.app/api?type=softr&color=auto&height=160&section=header&text=capsule%20render&fontSize=50)
+
+![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=160&section=header&text=capsule%20render&fontSize=50&animation=blinking)
 
 
 ### 👋 Hi, I’m @100-0
