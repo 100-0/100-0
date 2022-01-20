@@ -1,5 +1,5 @@
 
-![header](https://capsule-render.vercel.app/api?type=cylinder&color=auto&height=160&section=header&text=welcome&fontColor=fff&%render&fontSize=50&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=cylinder&color=auto&height=160&section=header&text=seonyeong's github&fontColor=fff&%render&fontSize=50&animation=twinkling)
 
 
 ### 👋 Hi, I’m @100-0
