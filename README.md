@@ -7,10 +7,11 @@
 
 
 - 🌱 I’m currently learning ...
-JS React.js
+
 
 
 - 📫 How to reach me ...
+<br>
 backxzero@gmail.com
 
 <!---
