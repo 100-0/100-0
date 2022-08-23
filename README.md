@@ -7,10 +7,11 @@
 
 
 - 🌱 I’m currently learning ...
-
+JS React.js
 
 
 - 📫 How to reach me ...
+backxzero@gmail.com
 
 <!---
 100-0/100-0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
