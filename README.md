@@ -22,15 +22,11 @@ You can click the Preview link to take a look at your changes.
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=100-0&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-#![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=100-0&show_icons=true&theme=radical)
-
-![](https://raw.githubusercontent.com/100-0/github-stats/master/generated/overview.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/100-0/github-stats/master/generated/overview.svg#gh-light-mode-only)
 
 ## Project
-<p align="center">
+
   <a href="https://github.com/piro16knockknock">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=piro16knockknock&repo=knockknock" />
   </a>
  
-</p>
+
