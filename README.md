@@ -4,12 +4,10 @@
 
 ### 👋 안녕하세요
 - 👀 I’m interested in ...
-<br>
-`JavaScript` `React` `Three.js` `Blender`
+JavaScript React Three.js Blender
 
 - 🌱 I’m currently learning ...
-<br>
-`React` `JavaScript`
+React JavaScript
 
 
 - 📫 How to reach me ...
