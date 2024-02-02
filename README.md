@@ -4,16 +4,17 @@
 
 ### 👋 안녕하세요
 - 👀 I’m interested in ...
-![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)
-![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=React&logoColor=white)
-![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=Three&logoColor=white)
+<hr>
+`JavaScript` `React` `Three.js` `Blender`
 
 - 🌱 I’m currently learning ...
-
+<hr>
+`React` `JavaScript`
 
 
 - 📫 How to reach me ...
 backxzero@gmail.com
+back-zero@naver.com
 
 <!---
 100-0/100-0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
