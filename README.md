@@ -4,11 +4,11 @@
 
 ### 👋 안녕하세요
 - 👀 I’m interested in ...
-<hr>
+<br>
 `JavaScript` `React` `Three.js` `Blender`
 
 - 🌱 I’m currently learning ...
-<hr>
+<br>
 `React` `JavaScript`
 
 
