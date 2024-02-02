@@ -4,7 +4,9 @@
 
 ### 👋 안녕하세요
 - 👀 I’m interested in ...
-`React`
+![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)
+![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=React&logoColor=white)
+![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=Three&logoColor=white)
 
 - 🌱 I’m currently learning ...
 
