@@ -2,9 +2,9 @@
 ![header](https://capsule-render.vercel.app/api?type=cylinder&color=auto&height=160&section=header&text=seonyeong&fontColor=fff&%render&fontSize=50&animation=twinkling)
 
 
-### 👋 Hi, I’m @100-0
+### 👋 안녕하세요
 - 👀 I’m interested in ...
-
+`React`
 
 - 🌱 I’m currently learning ...
 
@@ -23,10 +23,4 @@ You can click the Preview link to take a look at your changes.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=100-0&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-## Project
-
-  <a href="https://github.com/piro16knockknock">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=piro16knockknock&repo=knockknock" />
-  </a>
- 
 
